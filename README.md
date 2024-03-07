@@ -112,7 +112,7 @@ So, if an element has a specified width, the padding added to that element will 
 * The CSS ```height``` and ```width``` properties are used to set the height and width of an element.
 
 The CSS ```max-width``` property is used to set the maximum width of an element.
-* Screenshot comes here
+* ![sc](images/margin-and-padding.png)
 * The ```text-align``` property is used to set the horizontal alignment of a text.
 
 A text can be left or right aligned, centered, or justified.
